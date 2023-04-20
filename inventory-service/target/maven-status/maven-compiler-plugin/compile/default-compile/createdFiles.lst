@@ -1,0 +1,5 @@
+com\clerodri\invetoryservice\model\Invetory.class
+com\clerodri\invetoryservice\services\InvetoryService.class
+com\clerodri\invetoryservice\repository\InventoryRepository.class
+com\clerodri\invetoryservice\controller\InventoryController.class
+com\clerodri\invetoryservice\InvetoryServiceApplication.class

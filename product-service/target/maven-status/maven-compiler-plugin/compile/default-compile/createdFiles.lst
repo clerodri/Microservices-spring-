@@ -1,0 +1,10 @@
+com\clerodri\productservice\dto\ProductRequest.class
+com\clerodri\productservice\services\ProductService.class
+com\clerodri\productservice\model\Product$ProductBuilder.class
+com\clerodri\productservice\controller\ProductController.class
+com\clerodri\productservice\repository\ProductRepository.class
+com\clerodri\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\clerodri\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\clerodri\productservice\model\Product.class
+com\clerodri\productservice\dto\ProductResponse.class
+com\clerodri\productservice\ProductServiceApplication.class

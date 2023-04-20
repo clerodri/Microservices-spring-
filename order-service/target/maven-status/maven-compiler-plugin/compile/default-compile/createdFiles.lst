@@ -1,0 +1,10 @@
+com\clerodri\orderservice\OrderServiceApplication.class
+com\clerodri\orderservice\repository\OrderRepository.class
+com\clerodri\orderservice\dto\OrderRequest.class
+com\clerodri\orderservice\model\Order.class
+com\clerodri\orderservice\dto\OrderLineItemsDto.class
+com\clerodri\orderservice\model\OrderLineItems.class
+com\clerodri\orderservice\dto\OrderLineItemsDto$OrderLineItemsDtoBuilder.class
+com\clerodri\orderservice\controllers\OrderController.class
+com\clerodri\orderservice\services\OrderService.class
+com\clerodri\orderservice\dto\OrderRequest$OrderRequestBuilder.class
